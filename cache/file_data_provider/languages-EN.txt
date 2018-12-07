@@ -11,6 +11,7 @@ NL;;Dutch
 EN;;English
 ET;;Estonian
 FR;;French
+FI;;Finnish
 KA;;Georgian
 DE;;German
 GA;;Irish
